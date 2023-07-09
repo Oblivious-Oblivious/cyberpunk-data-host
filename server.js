@@ -14,5 +14,5 @@ app.get("/", (_, res) => {
 app.use(express.static("/"));
 
 app.listen(3000, () => {
-    console.log("Listening on port 3000");
+    console.log("Listening on 3000");
 });
