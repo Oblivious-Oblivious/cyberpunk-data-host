@@ -258,6 +258,6 @@ sorted_works = [
     },
 ].sort_by { |h| h[:year] };
 
-File.write("res.json", JSON[{
+File.write("cyberpunk.json", JSON[{
     cyberpunk_works: sorted_works
 }]);
