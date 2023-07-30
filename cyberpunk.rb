@@ -2,6 +2,11 @@ require "json";
 
 sorted_works = [
     {
+        name: "Cyberpunk 2077",
+        creator: "CD Projeck Red",
+        year: 2020,
+    },
+    {
         name: "Altered Carbon",
         creator: "Richard K. Morgan",
         year: 2002,
