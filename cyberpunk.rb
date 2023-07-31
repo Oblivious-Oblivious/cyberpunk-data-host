@@ -7,6 +7,11 @@ sorted_works = [
         year: 2020,
     },
     {
+        name: "Mr. Robot",
+        creator: "Sam Esmail",
+        year: 2015,
+    },
+    {
         name: "Altered Carbon",
         creator: "Richard K. Morgan",
         year: 2002,

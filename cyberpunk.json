@@ -51,13 +51,13 @@
             "year": 1981
         },
         {
-            "name": "Blade Runner",
-            "creator": "Hampton Fancher",
+            "name": "Tron",
+            "creator": "Bonnie MacBird",
             "year": 1982
         },
         {
-            "name": "Tron",
-            "creator": "Bonnie MacBird",
+            "name": "Blade Runner",
+            "creator": "Hampton Fancher",
             "year": 1982
         },
         {
@@ -66,13 +66,13 @@
             "year": 1982
         },
         {
-            "name": "WarGames",
-            "creator": "Lawrence Lasker",
+            "name": "Videodrome",
+            "creator": "David Cronenberg",
             "year": 1983
         },
         {
-            "name": "Videodrome",
-            "creator": "David Cronenberg",
+            "name": "WarGames",
+            "creator": "Lawrence Lasker",
             "year": 1983
         },
         {
@@ -136,18 +136,8 @@
             "year": 1994
         },
         {
-            "name": "VR. 5",
-            "creator": "Jeannine Renshaw",
-            "year": 1995
-        },
-        {
-            "name": "Ghost in the Shell",
-            "creator": "Masamune Shirow",
-            "year": 1995
-        },
-        {
-            "name": "Hackers",
-            "creator": "Iain Softley",
+            "name": "Strange Days",
+            "creator": "James Cameron",
             "year": 1995
         },
         {
@@ -156,8 +146,18 @@
             "year": 1995
         },
         {
-            "name": "Strange Days",
-            "creator": "James Cameron",
+            "name": "Hackers",
+            "creator": "Iain Softley",
+            "year": 1995
+        },
+        {
+            "name": "VR. 5",
+            "creator": "Jeannine Renshaw",
+            "year": 1995
+        },
+        {
+            "name": "Ghost in the Shell",
+            "creator": "Masamune Shirow",
             "year": 1995
         },
         {
@@ -196,13 +196,13 @@
             "year": 1999
         },
         {
-            "name": "Equilibrium",
-            "creator": "Kurt Wimmer",
+            "name": "Altered Carbon",
+            "creator": "Richard K. Morgan",
             "year": 2002
         },
         {
-            "name": "Altered Carbon",
-            "creator": "Richard K. Morgan",
+            "name": "Equilibrium",
+            "creator": "Kurt Wimmer",
             "year": 2002
         },
         {
@@ -234,6 +234,11 @@
             "name": "Interface Dreams",
             "creator": "Vlad Hernandez",
             "year": 2013
+        },
+        {
+            "name": "Mr. Robot",
+            "creator": "Sam Esmail",
+            "year": 2015
         },
         {
             "name": "Warcross",
