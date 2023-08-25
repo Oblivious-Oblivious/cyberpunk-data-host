@@ -3,262 +3,320 @@
         {
             "name": "Vulcan's Hammer",
             "creator": "Philip K. Dick",
-            "year": 1953
+            "year": 1953,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1953VulcansHammer.jpg"
         },
         {
             "name": "The Long Tomorrow",
             "creator": "Leigh Brackett",
-            "year": 1956
+            "year": 1956,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1956TheLongTomorrow.jpg"
         },
         {
             "name": "The Minority Report",
             "creator": "Philip K. Dick",
-            "year": 1956
+            "year": 1956,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1956TheMinorityReport.jpg"
         },
         {
             "name": "Dune",
             "creator": "Frank Herbert",
-            "year": 1965
+            "year": 1965,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1965Dune.jpg"
         },
         {
             "name": "Do Androids Dream of Electric Sheep",
             "creator": "Philip K. Dick",
-            "year": 1968
+            "year": 1968,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1968DoAndroidsDreamOfElectricSheep.jpg"
         },
         {
             "name": "Ubik",
             "creator": "Philip K. Dick",
-            "year": 1969
+            "year": 1969,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1969Ubik.jpg"
         },
         {
             "name": "Colossus: The Forbin Project",
             "creator": "Joseph Sargent",
-            "year": 1970
+            "year": 1970,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1970ColossusTheForbinProject.jpg"
         },
         {
             "name": "Westworld",
             "creator": "Micheal Crichton",
-            "year": 1973
+            "year": 1973,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1973Westworld.jpg"
         },
         {
             "name": "Johnny Mnemonic",
             "creator": "William Gibson",
-            "year": 1981
+            "year": 1981,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1981JohnnyMnemonic.jpg"
         },
         {
             "name": "True Names",
             "creator": "Vernon Vinge",
-            "year": 1981
-        },
-        {
-            "name": "Tron",
-            "creator": "Bonnie MacBird",
-            "year": 1982
-        },
-        {
-            "name": "Blade Runner",
-            "creator": "Hampton Fancher",
-            "year": 1982
+            "year": 1981,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1981TrueNames.jpg"
         },
         {
             "name": "Akira",
             "creator": "Katsuhiro Otomo",
-            "year": 1982
+            "year": 1982,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1982Akira.jpg"
+        },
+        {
+            "name": "Blade Runner",
+            "creator": "Hampton Fancher",
+            "year": 1982,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1982BladeRunner.jpg"
+        },
+        {
+            "name": "Tron",
+            "creator": "Bonnie MacBird",
+            "year": 1982,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1982Tron.jpg"
         },
         {
             "name": "Videodrome",
             "creator": "David Cronenberg",
-            "year": 1983
+            "year": 1983,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1983Videodrome.jpg"
         },
         {
             "name": "WarGames",
             "creator": "Lawrence Lasker",
-            "year": 1983
+            "year": 1983,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1983WarGames.jpg"
         },
         {
             "name": "Neuromancer",
             "creator": "William Gibson",
-            "year": 1984
+            "year": 1984,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1984Neuromancer.jpg"
         },
         {
             "name": "Bubblegum Crisis",
             "creator": "Toshimichi Suzuki",
-            "year": 1987
+            "year": 1987,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1987BubblegumCrisis.jpg"
         },
         {
             "name": "Robo-Cop",
             "creator": "Edward Neumeier",
-            "year": 1987
+            "year": 1987,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1987RoboCop.jpg"
         },
         {
             "name": "Xenogenesis",
             "creator": "Octavia E. Butler",
-            "year": 1987
-        },
-        {
-            "name": "Shadowrun",
-            "creator": "Robert N. Charrette",
-            "year": 1989
+            "year": 1987,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1987Xenogenesis.jpg"
         },
         {
             "name": "China 2185",
             "creator": "Cixin Liu",
-            "year": 1989
+            "year": 1989,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1989China2185.jpg"
+        },
+        {
+            "name": "Shadowrun",
+            "creator": "Robert N. Charrette",
+            "year": 1989,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1989Shadowrun.jpg"
         },
         {
             "name": "Total Recall",
             "creator": "Paul Verhoeven",
-            "year": 1990
+            "year": 1990,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1990TotalRecall.jpg"
         },
         {
             "name": "Æon Flux",
             "creator": "Peter Chung",
-            "year": 1991
+            "year": 1991,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1991ÆonFlux.jpg"
         },
         {
             "name": "Snow Crash",
             "creator": "Neal Stephenson",
-            "year": 1992
+            "year": 1992,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1992SnowCrash.jpg"
         },
         {
             "name": "Virtual Light",
             "creator": "William Gibson",
-            "year": 1993
-        },
-        {
-            "name": "Trouble and Her Friends",
-            "creator": "Melissa Scott",
-            "year": 1994
+            "year": 1993,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1993VirtualLight.jpg"
         },
         {
             "name": "System Shock",
             "creator": "LookingGlass Technologies",
-            "year": 1994
+            "year": 1994,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1994SystemShock.jpg"
         },
         {
-            "name": "Strange Days",
-            "creator": "James Cameron",
-            "year": 1995
+            "name": "Trouble and Her Friends",
+            "creator": "Melissa Scott",
+            "year": 1994,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1994TroubleAndHerFriends.jpg"
         },
         {
             "name": "Bioforge",
             "creator": "Origin Systems",
-            "year": 1995
-        },
-        {
-            "name": "Hackers",
-            "creator": "Iain Softley",
-            "year": 1995
-        },
-        {
-            "name": "VR. 5",
-            "creator": "Jeannine Renshaw",
-            "year": 1995
+            "year": 1995,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1995Bioforge.jpg"
         },
         {
             "name": "Ghost in the Shell",
             "creator": "Masamune Shirow",
-            "year": 1995
+            "year": 1995,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1995GhostInTheShell.jpg"
+        },
+        {
+            "name": "Hackers",
+            "creator": "Iain Softley",
+            "year": 1995,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1995Hackers.jpg"
+        },
+        {
+            "name": "Strange Days",
+            "creator": "James Cameron",
+            "year": 1995,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1995StrangeDays.jpg"
+        },
+        {
+            "name": "VR. 5",
+            "creator": "Jeannine Renshaw",
+            "year": 1995,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1995VR5.jpg"
         },
         {
             "name": "Gattaca",
             "creator": "Andrew Niccol",
-            "year": 1997
+            "year": 1997,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1997Gattaca.jpg"
         },
         {
             "name": "The Fifth Element",
             "creator": "Luc Besson",
-            "year": 1997
+            "year": 1997,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1997TheFifthElement.jpg"
         },
         {
-            "name": "Dark Ciry",
+            "name": "Dark City",
             "creator": "Alex Proyas",
-            "year": 1998
+            "year": 1998,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1998DarkCity.jpg"
         },
         {
             "name": "eXistenZ",
             "creator": "David Cronenberg",
-            "year": 1999
+            "year": 1999,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1999eXistenZ.jpg"
         },
         {
             "name": "The Matrix",
             "creator": "Wachowskis",
-            "year": 1999
-        },
-        {
-            "name": "Unreal Tournament",
-            "creator": "Epic Games",
-            "year": 1999
+            "year": 1999,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1999TheMatrix.jpg"
         },
         {
             "name": "The Thirteenth Floor",
             "creator": "Josef Rusnak",
-            "year": 1999
+            "year": 1999,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1999TheThirteenthFloor.jpg"
+        },
+        {
+            "name": "Unreal Tournament",
+            "creator": "Epic Games",
+            "year": 1999,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/1999UnrealTournament.jpg"
         },
         {
             "name": "Altered Carbon",
             "creator": "Richard K. Morgan",
-            "year": 2002
+            "year": 2002,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2002AlteredCarbon.jpg"
         },
         {
             "name": "Equilibrium",
             "creator": "Kurt Wimmer",
-            "year": 2002
+            "year": 2002,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2002Equilibrium.jpg"
         },
         {
             "name": "Genesis Rising: The Universal Crusade",
             "creator": "Metamorf Studios",
-            "year": 2007
+            "year": 2007,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2007GenesisRisingTheUniversalCrusade.jpg"
+        },
+        {
+            "name": "Crysis",
+            "creator": "Crytek",
+            "year": 2008,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2008Crysis.jpg"
         },
         {
             "name": "The Three-Body Problem",
             "creator": "Cixin Liu",
-            "year": 2008
+            "year": 2008,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2008TheThreeBodyProblem.jpg"
         },
         {
             "name": "Leviathan",
             "creator": "Scott Westerfeld",
-            "year": 2009
+            "year": 2009,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2009Leviathan.jpg"
         },
         {
             "name": "The Quantum Thief",
             "creator": "Hannu Rajaniemi",
-            "year": 2010
+            "year": 2010,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2010TheQuantumThief.jpg"
         },
         {
             "name": "Ready Player One",
             "creator": "Ernest Cline",
-            "year": 2011
+            "year": 2011,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2011ReadyPlayerOne.jpg"
         },
         {
             "name": "Interface Dreams",
             "creator": "Vlad Hernandez",
-            "year": 2013
+            "year": 2013,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2013InterfaceDreams.jpg"
         },
         {
             "name": "Mr. Robot",
             "creator": "Sam Esmail",
-            "year": 2015
+            "year": 2015,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2015MrRobot.jpg"
         },
         {
             "name": "Warcross",
             "creator": "Marie Lu",
-            "year": 2017
+            "year": 2017,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2017Warcross.jpg"
         },
         {
             "name": "Upgrade",
             "creator": "Leigh Whannell",
-            "year": 2018
+            "year": 2018,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2018Upgrade.jpg"
         },
         {
             "name": "Cyberpunk 2077",
             "creator": "CD Projeck Red",
-            "year": 2020
+            "year": 2020,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2020Cyberpunk2077.jpg"
         },
         {
             "name": "Scorn",
             "creator": "Ebb Software",
-            "year": 2022
+            "year": 2022,
+            "cover": "https://cyberpunk-data-host.dreamnotexpiring.com/images/2022Scorn.jpg"
         }
     ]
 }
